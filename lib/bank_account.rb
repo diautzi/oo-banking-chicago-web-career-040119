@@ -1,11 +1,12 @@
 require "pry"
 
 class BankAccount
+  attr_reader :name
+attr
 
-ALL = []
+  ALL = []
 
-attr_reader :name
-attr_accessor :balance, :status
+_accessor :balance, :status
 
 def initialize(name)
   @name=name
