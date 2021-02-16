@@ -55,6 +55,5 @@ class BankAccount
     @status
   
   end
-# binding.pry
-# ""
+
 end
