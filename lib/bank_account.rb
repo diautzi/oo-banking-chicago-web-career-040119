@@ -32,7 +32,7 @@ class BankAccount
   def self.display_balance
     #@balance += amount
     "Your balance is $#{self.balance}."
-  
+
   end
   
   def display_balance
